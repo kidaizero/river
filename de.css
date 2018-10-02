@@ -1,11 +1,21 @@
 h1{
     padding-left:500px;
+    padding-right:500px;
     color:yellow;
+    background-color:green;
 }
 h2{
     padding-left:500px;
     color:red;
+    background-color:blanchedalmond;
 }
 div{
     padding-left:250px;
+}
+
+.img{
+    background-color:skyblue;
+}
+body{
+    background-color:silver;
 }
